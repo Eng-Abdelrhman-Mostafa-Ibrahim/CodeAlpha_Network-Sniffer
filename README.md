@@ -1,9 +1,6 @@
 # 🕵️ Basic Network Sniffer
 
-A simple Python network sniffer that captures and analyzes live packets using Scapy — built for educational purposes.
-
-> ⚠️ For educational and ethical use only.
-> Only use this tool on networks you own or have explicit permission to monitor.
+A simple Python network sniffer that captures and analyzes live packets using Scapy
 ---
 
 ## 📋 Features
